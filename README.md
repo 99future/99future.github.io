@@ -8,4 +8,8 @@ https://mefuture.cn
 
 $S^2$
 
+$$
+ y=aX+b
+$$
+
 2024.05.07
