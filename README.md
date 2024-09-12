@@ -16,5 +16,7 @@ $$
  b=\sum^{n}_{i=0}{a_i}
 $$
 
+This $X^2_F$ is a F-norm.
+
 2024.09.12
 NingXJ
