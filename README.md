@@ -18,5 +18,5 @@ $$
 
 This $X^2_F$ is a F-norm.
 
-2024.09.12
+2024.09.19
 NingXJ
