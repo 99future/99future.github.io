@@ -6,7 +6,7 @@ https://mefuture.cn
 
 ## Explore future
 
-$S^2$
+$S^2\pm a_1^3$
 
 $$
  y=aX+b
@@ -18,5 +18,5 @@ $$
 
 This $X^2_F$ is a F-norm.
 
-2024.09.19
+2024.10.07
 NingXJ
