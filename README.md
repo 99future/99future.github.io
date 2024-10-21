@@ -16,6 +16,10 @@ $$
  b=\sum^{n}_{i=0}{a_i}
 $$
 
+$$
+ \alpha^\beta_\gamma = \boldsymbol{X}+y
+$$
+
 This $X^2_F$ is a F-norm.
 
 2024.10.07
