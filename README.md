@@ -17,10 +17,10 @@ $$
 $$
 
 $$
- \alpha^\beta_\gamma = \boldsymbol{X}+y
+ \alpha^\beta_\gamma = \boldsymbol{X}+y\in \mathbb{R}^{n}
 $$
 
 This $X^2_F$ is a F-norm.
 
-2024.10.07
+2024.11.14
 NingXJ
