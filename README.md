@@ -22,5 +22,5 @@ $$
 
 This $X^2_F$ is a F-norm.
 
-2024.11.14
+2024.11.29
 NingXJ
