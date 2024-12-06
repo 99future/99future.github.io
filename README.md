@@ -20,7 +20,11 @@ $$
  \alpha^\beta_\gamma = \boldsymbol{X}+y\in \mathbb{R}^{n}
 $$
 
+$$
+\mathbf{H}_{i+1} = \mathbf{H}_i + x
+$$
+
 This $X^2_F$ is a F-norm.
 
-2024.11.29
+2024.12.6
 NingXJ
