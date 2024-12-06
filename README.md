@@ -26,5 +26,6 @@ $$
 
 This $X^2_F$ is a F-norm.
 
-2024.12.6
+
+2024.12.06
 NingXJ
