@@ -27,5 +27,10 @@ $$
 This $X^2_F$ is a F-norm.
 
 
+## Games
+
+- Euro Truck Simulator 2
+- 黑神话：悟空
+
 2024.12.18
 NingXJ
