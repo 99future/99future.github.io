@@ -31,6 +31,9 @@ This $X^2_F$ is a F-norm.
 
 - Euro Truck Simulator 2
 - 黑神话：悟空
+- PUBG: BATTLEGROUNDS
+- F1® 2020~23
+
 
 2024.12.18
 NingXJ
