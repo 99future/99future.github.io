@@ -30,7 +30,7 @@ This $X^2_F$ is a F-norm.
 ## Games
 
 - Euro Truck Simulator 2
-- 黑神话：悟空
+- Black Myth: Wukong
 - PUBG: BATTLEGROUNDS
 - F1® 2020~23
 
