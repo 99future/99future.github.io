@@ -1,4 +1,3 @@
-[TOC]
 
 # 99future.github.io
 
